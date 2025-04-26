@@ -1,6 +1,6 @@
 # Deadlock - Prevod na Srpski (Latinica)
 
-Ovo je repo za prevod Valve-ove igre Deadlock na srpski jezik (latinica). Ovo radim uglavnom za sebe, koristeći AI i Python skripte da ubrzam proces.
+Ovo je repo za prevod Valve-ove igre Deadlock na srpski jezik. Ovo radim uglavnom za sebe, koristeći AI i Python skripte da ubrzam proces.
 
 Primarno sam napravio ovaj repozitorijum da imam **online backup** za svoj prevod. Dešava se da kad igra dobije update, ume da obriše ili prepiše lokalne fajlove prevoda, pa da ne bih morao ponovo da ih ubacujem ili pravim, lakše mi je da ih držim ovde. Pošto već postoji online, **što da ne bude public ako još nekom zatreba?** :)
 
@@ -11,7 +11,7 @@ Cilj je da se prevede što više tekstualnih delova igre, ali pošto radim sam i
 Evo dokle se stiglo:
 
 * ✅ **Interfejs (UI):** Prevedeno.
-* ✅ **Prodavnica (Item Shop):** Prevedeno.
+* ✅ **Item Shop:** Prevedeno.
 * ✅ **Opisi itema:** Prevedeno.
 * ⏳ **Opisi heroja:** U planu, biće prevedeno.
 * ❌ **Imena heroja:** Neće biti prevođena. Iskreno, zvuči čudno i kontroverzno je prevoditi imena likova. Bolje da ostanu originalna.
