@@ -2,7 +2,7 @@
 
 Ovo je repo za prevod Valve-ove igre Deadlock na srpski jezik. Ovo radim uglavnom za sebe, koristeći AI i Python skripte da ubrzam proces.
 
-Primarno sam napravio ovaj repozitorijum da imam **online backup** za svoj prevod. Dešava se da kad igra dobije update, ume da obriše ili prepiše lokalne fajlove prevoda, pa da ne bih morao ponovo da ih ubacujem ili pravim, lakše mi je da ih držim ovde. Pošto već postoji online, **što da ne bude public ako još nekom zatreba?** :)
+Primarno sam napravio ovaj repo da imam **online backup** za svoj prevod. Dešava se da kad igra dobije update, ume da obriše ili prepiše lokalne fajlove prevoda, pa da ne bih morao ponovo da ih ubacujem ili pravim, lakše mi je da ih držim ovde. Pošto već postoji online, **što da ne bude public ako još nekom zatreba?** :)
 
 Cilj je da se prevede što više tekstualnih delova igre, ali pošto radim sam i prvenstveno za sebe, projekat će napredovati tempom kojim ide. Ne tražim aktivno pomoć, ali slobodno koristite fajlove ako vam znače.
 
@@ -21,13 +21,10 @@ Generalno, fokus je na tekstualnim delovima igre.
 
 ## Kako Instalirati Prevod
 
-Lagano je, prati ove korake:
-
 1.  **Skini fajlove:**
     * Idi na vrh ovog GitHub repozitorijuma.
     * Klikni na zeleno dugme `<> Code`.
     * Izaberi `Download ZIP`.
-    * (Alternativa za iskusnije: `git clone https://github.com/tvoj-username/tvoj-repozitorijum.git`)
 
 2.  **Raspakuj arhivu:**
     * Ako si skinuo ZIP fajl, raspakuj ga negde na svom kompjuteru gde ćeš ga lako naći.
